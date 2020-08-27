@@ -12,3 +12,5 @@ and also the first university project.
 - Able to load new game or continue the last game
 
 ### Screen Shots
+
+![](ScreenShots/ScreenShot#1.png)
