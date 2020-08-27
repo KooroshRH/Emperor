@@ -14,3 +14,7 @@ and also the first university project.
 ### Screen Shots
 
 ![](ScreenShots/ScreenShot#1.png)
+
+![](ScreenShots/ScreenShot#2.png)
+
+![](ScreenShots/ScreenShot#3.png)
