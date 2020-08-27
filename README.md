@@ -10,11 +10,13 @@ and also the first university project.
 - Working with file
 - Saving game states when user wants
 - Able to load new game or continue the last game
+- Functional programming
+- Pointer programming
 
 ### Screen Shots
 
-![](ScreenShots/ScreenShot#1.png)
+![ScreenShot#1](ScreenShots/ScreenShot#1.png)
 
-![](ScreenShots/ScreenShot#2.png)
+![ScreenShot#2](ScreenShots/ScreenShot#2.png)
 
-![](ScreenShots/ScreenShot#3.png)
+![ScreenShot#3](ScreenShots/ScreenShot#3.png)
